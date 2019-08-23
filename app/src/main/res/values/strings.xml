@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SUNSET</string>
+    <string name="Logintitle">LOGIN</string>
+    <string name="passhint">oooooooooo</string>
+    <string name="emailhint">hello@timesgroup.com</string>
+    <string name="btnLogin">SIGN IN</string>
+    <string name="restrablecer">FORGOT PASSWORD?</string>
+    <string name="DashTitle">Dashboard</string>
+</resources>
